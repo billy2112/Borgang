@@ -1,0 +1,15 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B4513;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A0522D;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#grad3)"/>
+  <text x="400" y="200" font-size="60" font-weight="bold" fill="#D4AF37" text-anchor="middle">2026 Objectives</text>
+  <text x="400" y="280" font-size="30" fill="#FFF8DC" text-anchor="middle">This Year's Focus Areas</text>
+  <text x="400" y="350" font-size="24" fill="#FFF8DC" text-anchor="middle">Expanding programs &amp; reach</text>
+  <circle cx="200" cy="450" r="30" fill="#D4AF37" opacity="0.3"/>
+  <circle cx="400" cy="470" r="35" fill="#D4AF37" opacity="0.35"/>
+  <circle cx="600" cy="440" r="32" fill="#D4AF37" opacity="0.28"/>
+</svg>

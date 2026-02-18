@@ -1,0 +1,17 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B4513;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A0522D;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#grad4)"/>
+  <text x="400" y="200" font-size="60" font-weight="bold" fill="#D4AF37" text-anchor="middle">Action Plan</text>
+  <text x="400" y="280" font-size="30" fill="#FFF8DC" text-anchor="middle">Implementation Strategy</text>
+  <text x="400" y="350" font-size="24" fill="#FFF8DC" text-anchor="middle">Step-by-step execution roadmap</text>
+  <line x1="100" y1="450" x2="700" y2="450" stroke="#D4AF37" stroke-width="3" opacity="0.5"/>
+  <circle cx="150" cy="450" r="15" fill="#D4AF37" opacity="0.4"/>
+  <circle cx="350" cy="450" r="15" fill="#D4AF37" opacity="0.5"/>
+  <circle cx="550" cy="450" r="15" fill="#D4AF37" opacity="0.45"/>
+  <circle cx="700" cy="450" r="15" fill="#D4AF37" opacity="0.35"/>
+</svg>
